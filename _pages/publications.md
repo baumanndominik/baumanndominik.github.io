@@ -26,7 +26,7 @@ author_profile: true
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” in IEEE International Conference on Robotics and Automation, Xi’an, China, 2021.
 * J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” in IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019.
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, “Event-triggered pulse control with model learning (if necessary),” in American Control Conference, Philadelphia, PA, USA, 2019.
-* F. Mager, D. Baumann, R. Jacob, L. Thiele, S. Trimpe, and M. Zimmerling, “Feedback control goes wireless: Guaranteed stability over low-power multi-hop networks,” in ACM/IEEE International Conference on Cyber-Physical Systems, (*Best Paper Award*), Montréal, Canada, 2019.
+* F. Mager, D. Baumann, R. Jacob, L. Thiele, S. Trimpe, and M. Zimmerling, “Feedback control goes wireless: Guaranteed stability over low-power multi-hop networks,” in ACM/IEEE International Conference on Cyber-Physical Systems, (**Best Paper Award**), Montréal, Canada, 2019.
 * D. Baumann, J.-J. Zhu, G. Martius, and S. Trimpe, “Deep reinforcement learning for event-triggered control,” in IEEE International Conference on Decision and Control, Miami, FL, USA, 2018.
 * F. Solowjow, D. Baumann, J. Garcke, and S. Trimpe, “Event-triggered learning for resource-efficient networked control,” in American Control Conference, Milwaukee, WI, USA, 2018.
 * D. Baumann, F. Mager, H. Singh, M. Zimmerling, and S. Trimpe, “Evaluating low-power wireless cyber-physical systems,” in IEEE Workshop on Benchmarking Cyber-Physical Networks and Systems, Porto, Portugal, 2018.
