@@ -78,9 +78,6 @@
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cv</loc>
-</url>
-<url>
 <loc>http://localhost:4000/markdown/</loc>
 </url>
 <url>
@@ -127,10 +124,6 @@
 <url>
 <loc>http://localhost:4000/files/paper3.pdf</loc>
 <lastmod>2019-06-17T07:33:05-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/pdfs/cv.pdf</loc>
-<lastmod>2022-01-16T03:03:04-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
