@@ -1,0 +1,32 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'out/cv.blg'
+[55] biber:322> INFO - === Sun Jan 16, 2022, 12:02:57
+[64] Biber.pm:415> INFO - Reading 'out/cv.bcf'
+[113] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[123] Biber.pm:4256> INFO - Processing section 0
+[123] Utils.pm:75> INFO - Globbing data source 'publications.bib'
+[123] Utils.pm:91> INFO - Globbed data source 'publications.bib' to publications.bib
+[130] Biber.pm:4455> INFO - Looking for bibtex format file 'publications.bib' for section 0
+[131] bibtex.pm:1653> INFO - LaTeX decoding ...
+[154] bibtex.pm:1471> INFO - Found BibTeX data source 'publications.bib'
+[180] Utils.pm:293> WARN - month field 'Sep' in entry 'mastrangelo2019predictive' is not an integer - this will probably not sort properly.
+[187] Utils.pm:293> WARN - month field 'Apr' in entry 'baumann2018evaluating' is not an integer - this will probably not sort properly.
+[194] Utils.pm:293> WARN - month field 'Apr' in entry 'mager2019' is not an integer - this will probably not sort properly.
+[197] Utils.pm:293> WARN - month field 'Dec' in entry 'baumann2020learning' is not an integer - this will probably not sort properly.
+[210] Utils.pm:293> WARN - month field 'Jan' in entry 'baumann2018memristor' is not an integer - this will probably not sort properly.
+[224] Utils.pm:293> WARN - month field 'Jun' in entry 'trimpe2019resource' is not an integer - this will probably not sort properly.
+[227] Utils.pm:293> WARN - month field 'oct' in entry 'baumann2016numerical' is not an integer - this will probably not sort properly.
+[232] Utils.pm:293> WARN - month field 'Jul' in entry 'baumann2019event' is not an integer - this will probably not sort properly.
+[267] Utils.pm:293> WARN - month field 'Jul' in entry 'solowjow2018event' is not an integer - this will probably not sort properly.
+[273] Utils.pm:293> WARN - month field 'Jan.' in entry 'baumann2019control' is not an integer - this will probably not sort properly.
+[278] Utils.pm:293> WARN - month field 'Feb' in entry 'baumann2019fast' is not an integer - this will probably not sort properly.
+[285] Utils.pm:293> WARN - month field 'Dec' in entry 'baumann2018deep' is not an integer - this will probably not sort properly.
+[292] Utils.pm:293> WARN - month field 'Nov' in entry 'baumann2019mode' is not an integer - this will probably not sort properly.
+[323] Utils.pm:293> WARN - month field 'Jan' in entry 'ascoli2018memristor' is not an integer - this will probably not sort properly.
+[359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[359] Biber.pm:4084> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[359] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[378] bbl.pm:652> INFO - Writing 'out/cv.bbl' with encoding 'UTF-8'
+[393] bbl.pm:755> INFO - Output to out/cv.bbl
+[393] Biber.pm:128> INFO - WARNINGS: 14

@@ -1,0 +1,198 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+%% ModernCV themes
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\renewcommand{\familydefault}{\sfdefault}
+\nopagenumbers{}
+
+%% Character encoding
+\usepackage[utf8]{inputenc}
+
+\usepackage{csquotes}
+
+\usepackage[sorting=ydnt,maxbibnames=99,minbibnames=2,style=ieee]{biblatex}
+
+\DeclareSortingTemplate{ydnt}{
+  \sort{
+    \field{presort}
+  }
+  \sort[final]{
+    \field{sortkey}
+  }
+  \sort[direction=descending]{
+    \field{sortyear}
+    \field{year}
+  }
+  \sort[direction=descending]{
+    \field[padside=left,padwidth=2,padchar=0]{month}
+    \literal{00}
+  }
+  \sort[direction=descending]{
+    \field[padside=left,padwidth=2,padchar=0]{day}
+    \literal{00}
+  }
+  \sort{
+    \field{sorttitle}
+  }
+  \sort{
+    \field[padside=left,padwidth=4,padchar=0]{volume}
+    \literal{0000}
+  }
+    \sort{
+    \field{sortname}
+    \field{author}
+    \field{editor}
+    \field{translator}
+    \field{sorttitle}
+    \field{title}
+  }
+}
+
+\AtEveryBibitem{\clearfield{month}}
+
+\defbibenvironment{bibliography}
+  {\list
+     {}
+     {\setlength{\topsep}{0pt}% layout parameters from moderncvstyleclassic.sty
+      \setlength{\labelwidth}{\hintscolumnwidth}%
+      \setlength{\labelsep}{\separatorcolumnwidth}%
+      \leftmargin\labelwidth%
+      \advance\leftmargin\labelsep}%
+      \sloppy\clubpenalty4000\widowpenalty4000}
+  {\endlist}
+  {\item}
+
+\addbibresource{publications.bib}
+
+%% Adjust the page margins
+\usepackage[scale=0.75]{geometry}
+
+\makeatletter
+\newcommand*{\dateofbirth}[1]{\def\@dateofbirth{#1}}
+\patchcmd{\makecvhead} % <cmd>
+  {\if@right\begin{tabular}[b]{@{}l@{}}\fi} % <search>
+  {\if@right\begin{tabular}[b]{@{}l@{}}\fi%
+   \ifthenelse{\isundefined{\@dateofbirth}}{}{\makenewline Date of birth \@dateofbirth}%
+  } % <replace>
+  {}{} % <success><failure>
+\makeatother
+
+%% Personal data
+\firstname{Dominik}
+\familyname{Baumann}
+\dateofbirth{1991-10-21}
+% \title{Resumé title (optional)} 
+\address{Peliserkerstr. 65C}{D-52068 Aachen} 
+\mobile{+49~(1578)~7956135} 
+% \phone{+2~(345)~678~901} 
+% \fax{+3~(456)~789~012} 
+\email{dominik.baumann@dsme.rwth-aachen.de} 
+\homepage{www.dsme.rwth-aachen.de/dbaumann} 
+% \extrainfo{additional information} 
+% \photo[64pt][0.4pt]{profile_pic}
+% \quote{Some quote (optional)}
+
+%%------------------------------------------------------------------------------
+%% Content
+%%------------------------------------------------------------------------------
+\begin{document}
+\makecvtitle
+
+% \section{Experience}
+% \cventry{2021--current}{Postdoctoral Researcher}{RWTH Aachen University, Germany}{}{}{Research on the intersection of dynamical systems and causal inference.}
+
+\section{Education}
+\cventry{2017--2020}{Ph.D.}{Max Planck Institute for Intelligent Systems, Stuttgart/T\"ubingen, Germany and KTH Royal Institute of Technology, Stockholm, Sweden}{}{}{Studies on the intersections of dynamical systems, machine learning, and communication networks. Main advisor: Prof.\ Sebastian Trimpe (RWTH Aachen University and MPI Stuttgart); Co-advisor: Prof.\ Karl H.\ Johansson (KTH Stockholm).}
+% \cvitem{title}{ \emph{Title} }
+\cventry{2011--2016}{Dip.-Ing.}{TU Dresden, Dresden, Germany}{}{}{Electrical Engineering, focus on systems and control theory.}  % arguments 3 to 6 can be left empty
+\cvitemwithcomment{Languages}{German (native speaker), English (proficient), French, Spanish (intermediate)}{}
+% \cvdoubleitem{category X}{XXX, YYY, ZZZ}{category Y}{XXX, YYY, ZZZ}
+% \cvlistitem{Item 1}
+% \cvlistdoubleitem{Item 2}{Item 3}
+
+\section{Experience}
+\cventry{2022--current}{Postdoctoral Researcher}{Uppsala University, Uppsala, Germany}{}{}{Research and teaching in dynamical systems and control theory and machine learning.}
+\cventry{2021--current}{Postdoctoral Researcher}{RWTH Aachen University, Aachen, Germany}{}{}{Research and teaching in dynamical systems and control theory and machine learning.}
+\cventry{2017--2020}{Ph.D.\ student}{Max Planck Institute for Intelligent Systems, Stuttgart/T\"ubingen, Germany and KTH Royal Institute of Technology, Stockholm, Sweden}{}{}{}
+
+% \section{Selected Research Projects}
+% \cventry{2017--current}{Wireless Control of Cyber-physical Systems}{}{}{}{Future engineering systems will tightly integrate the physical world with computing and communication. Together with collaborators from TU Dresden and ETH Z\"urich, we developed novel methods to for the first time enable reliable control of fast physical systems over large wireless networks. Results include mathematical stability proofs and practical experiments on a cyber-physical testbed.}
+% \cventry{2017--current}{Deep Reinforcement Learning for Resource-aware Control}{}{}{}{When systems are controlled over wireless networks, they need to carefully use the scarce network resource. We leverage and extend recent deep reinforcement learning methods to learn resource-aware control policies for high-dimensional and nonlinear dynamical systems.}
+% \cventry{2019--current}{Causal Learning for Dynamical Systems}{}{}{}{Most recent machine learning techniques rely on a correlation-based analysis, which can lead to drastic failures when trying to extrapolate outside the training domain. To overcome this, we propose a structured approach that enables autonomous systems to learn about causal influences of their actions. We provide theoretical guarantees for the developed framework and real-world experiments on a robotic system.}
+% \cventry{2020--2021}{Emerging Technologies for Development}{}{}{}{With only ten years left to achieving the sustainable development goals, development organizations need to rapidly innovate how they make decisions and solve problems. Such innovations can be provided by emerging technologies (e.g., machine learning). In this project, we provide an overview over potential risks and benefits of emerging technologies, especially for developing countries, illustrated with examples where possible.}
+
+\section{Awards}
+\cventry{2019}{Best Paper Award}{ACM/IEEE International Conference on Cyber-Physical Systems}{Montr\'eal, Canada}{}{}
+\cventry{2019}{Best Demo Award}{ACM/IEEE International Conference on Information Processing in Sensor Networks}{Montr\'eal, Canada}{}{}
+\cventry{2019}{Future Award of the Ewald Marquardt Foundation}{}{}{}{}{}{}
+
+\section{Invited Talks}
+\cventry{Nov.\ 2021}{Systems and control theory for autonomous and interacting agents}{University of Stuttgart}{Stuttgart, Germany}{}{}{}
+\cventry{Sep.\ 2021}{Causality in learning-based control}{RWTH Aachen University}{Aachen, Germany}{}{}{}
+\cventry{Jan.\ 2021}{Wireless control of cyber-physical systems}{ETH Z\"urich}{Z\"urich, Switzerland}{}{}{}
+\cventry{Dec.\ 2019}{Feedback control and causal identification for cyber-physical systems}{Uppsala University}{Uppsala, Sweden}{}{}{}
+\cventry{Aug.\ 2017}{Distributed and event-based wireless control of cyber-physical systems}{KTH Royal Institute of Technology}{Stockholm, Sweden}{}{}{}
+\cventry{Oct.\ 2016}{Enhancing a robot's control system with memristors}{Max Planck Institute for Intelligent Systems}{T\"ubingen, Germany}{}{}{}
+
+\section{Teaching}
+\subsection{Supervision of Master Students}
+\cventry{2021}{Bhavya Sukhija}{ETH Z\"urich}{}{}{}
+\cventry{2020--2021}{Hannah Markgraf}{RWTH Aachen University}{}{}{}
+\cventry{2019--2020}{Niklas Funk}{ETH Z\"urich}{}{}{}
+\cventry{2019--2020}{Erik H\"orman}{Sapienza University of Rome}{}{}{}
+\cventry{2018--2019}{Jos\'e Mario Mastrangelo}{ETH Z\"urich}{}{}{}
+\cventry{2018}{Oleksandr Zlatov}{University of T\"ubingen}{}{}{}
+\subsection{Lectures, Tutorials}
+\cventry{Aug.\ 2021}{Lecturer for the summer school ``Production Technology meets Industry 4.0''}{RWTH Aachen University}{Aachen, Germany}{}{Design and teaching of four lectures on ``Introduction to Artificial Intelligence''}
+\cventry{Apr.\ 2021-- Jul.\ 2021}{Seminar ``Ethics of Artificial Intelligence and Robotics''}{RWTH Aachen University}{Aachen, Germany}{}{Planning, organization, and conductance of a new seminar covering ethical and societal impacts of artificial intelligence and robotics}
+\cventry{Sep.\ 2020-- Mar.\ 2021}{Teaching assistant for course \enquote{Computer Science in Mechanical Engineering II}}{RWTH Aachen University}{Aachen, Germany}{}{Material design and teaching of exercise lectures.}
+\cventry{Dec.\ 2018-- Feb.\ 2019}{Project supervision for course \enquote{Statistical Learning Methods and Stochastic Control}}{University of Stuttgart}{Stuttgart, Germany}{}{Design and supervision of a project for a group of 3 students.}
+\cventry{Jan.\ 2018}{Teaching assistant for tutorial \enquote{Introduction to Control Theory}}{Winter School of DFG Priority Program on \enquote{Cyber-physical Networking}}{Arosa, Switzerland}{}{Preparation and presentation of Python examples.}
+\cventry{2013--2016}{Tutor for \enquote{Mathematics for Electrical Engineering}}{TU Dresden}{Dresden, Germany}{}{Teaching of mathematics to groups of up to 50 electrical engineering students.}
+
+\section{Services}
+\cventry{2022}{Associate editor}{IFAC Conference on Advances in Control Education}{Hamburg, Germany}{}{}
+\cventry{2021}{Associate editor}{IEEE International Conference on Multisensor Fusion and Integration}{Karlsruhe, Germany}{}{}
+\cventry{2021}{Program committee member}{International Conference on Event-based Control, Communication, and Signal Processing}{virtual}{}{}
+\cventry{2021}{Co-organization of a competition on ``Learning by Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality''}{Advances in Neural Information Processing Systems}{virtual}{}{}
+\cventry{2018--2021}{Ombudsperson of the Max Planck Institute for Intelligent Systems}{T\"ubingen, Germany}{}{}{}{}
+\cventry{2020}{Co-organization of an open invited track on \enquote{Control for Next Generation Wireless Networks}}{IFAC World Congress}{virtual}{}{}
+
+% \section{Internships}
+% \cventry{Oct.\ 2014-- Mar.\ 2015}{Internship at Xenon Automation}{Dresden, Germany}{}{}{Programming of factory automation machinery, bringing into service at client.}
+% \cventry{Feb.\ 2009}{Internship at the state parliament of Baden-W\"urttemberg}{Stuttgart, Germany}{}{}{Working for a member of parliament, attending plenary and committee meetings.}
+
+% \newpage
+
+\section{Publications}
+\nocite{*}
+\printbibliography[heading=subbibliography,
+                   title={Journals},
+                   type=article]
+ \printbibliography[heading=subbibliography,
+                   title={Conferences},
+                   type=inproceedings]
+ \printbibliography[heading=subbibliography,
+                   title={Theses},
+                   type=thesis]
+ \printbibliography[heading=subbibliography,
+                   title={Abstracts, Posters},
+                   type=misc]
+
+
+% \section{Talks and Poster Presentations}
+% \cventry{Jun. 2017}{Poster: Distributed and event-based wireless control of cyber-physical systems}{PhD School on Cyber-Physical Systems}{Lucca, Italy}{}{}{}
+% \cventry{Aug. 2017}{Talk: Distributed and event-based wireless control of cyber-physical systems}{KTH Royal Institute of Technology}{Stockholm, Sweden}{}{}{}
+% \cventry{Feb. 2018}{Poster: Learning to save communication}{Max Planck ETH Workshop on Learning Control}{Z\"urich, Switzerland}{}{}{}
+% \cventry{Jun. 2018}{Talk: Fast and resource-efficient control of wireless cyber-physical systems}{Reglerm\"ote (Swedish Control Conference)}{Stochkolm, Sweden}{}{}{}
+% \cventry{Nov. 2018}{Poster: Deep reinforcement learning for reource-aware control}{Bosch Conference on Artificial Intelligence}{Renningen, Germany}{}{}{}
+% \cventry{Mar. 2019}{Talk: Feedback control goes wireless}{GMA Meeting}{G\"unzburg, Germany}{}{}{}
+% \cventry{Sep. 2019}{Talk: Fast and resource-efficient control of wireless cyber-physical systems}{GMA Meeting}{Anif, Austria}{}{}{}
+
+%% A publications list
+% \nocite{*}
+% \bibliographystyle{plain}
+% \bibliography{key_publications} % a bibtex file containing the list of publications
+
+\end{document}
