@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** "Automatic control of cyber-physical systems," Aalto University, Espoo, Finland, Apr. 2022.
 * **Talk:** "Systems and control theory for autonomous and interacting agents," University of Stuttgart, Stuttgart, Germany, Nov. 2021.
 * **Talk:** "Causality in learning-based control," RWTH Aachen University, Aachen, Germany, Sep. 2021.
 * **Talk:** "Wireless control of cyber-physical systems," GMA Meeting, Günzburg, Germany (virtual), Mar. 2021.

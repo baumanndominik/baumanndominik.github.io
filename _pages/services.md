@@ -5,6 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
+* Program committee member for the competition track of Advances in Neural Information Processing Systems, New Orleans, LA, USA, 2022.
 * Associate editor for the IFAC Conference on Advances in Control Education, Hamburg, Germany, 2022.
 * Associate editor for the IEEE International Conference on Multisensor Fusion and Integration, Karlsruhe, Germany, 2021.
 * Program committee member for the International Conference on Event-based Control, Communication, and Signal Processing, held virtually in 2021.
