@@ -28,3 +28,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * D. Baumann, J.-J. Zhu, G. Martius, and S. Trimpe, “Deep reinforcement learning for event-triggered control,” in IEEE International Conference on Decision and Control, Miami, FL, USA, 2018, [arXiv](https://arxiv.org/abs/1809.05152).
 * F. Solowjow, D. Baumann, J. Garcke, and S. Trimpe, “Event-triggered learning for resource-efficient networked control,” in American Control Conference, Milwaukee, WI, USA, 2018, [arXiv](https://arxiv.org/abs/1803.01802).
 * D. Baumann, F. Mager, H. Singh, M. Zimmerling, and S. Trimpe, “Evaluating low-power wireless cyber-physical systems,” in IEEE Workshop on Benchmarking Cyber-Physical Networks and Systems, Porto, Portugal, 2018, [arXiv](https://arxiv.org/abs/1804.09582).
+
+# Reports
+
+* S. Weichwald, S. W. Morgensen, T.E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, N. Pfister, "Learning by Doing: Controlling a Dynamical System using Causality, Control, and Reinforcement Learning," NeurIPS 2021 Competition and Demonstration Track (accepted), 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
+* P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging Uses of Technology for Development: A New Intelligence Paradigm," Policy Paper, Agence Francaise de Developpement, 2020 [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).
