@@ -31,5 +31,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Reports
 
-* S. Weichwald, S. W. Morgensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS 2021 Competition and Demonstration Track (accepted), 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
+* S. Weichwald, S. W. Morgensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track (accepted), 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
 * P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging uses of technology for development: A new intelligence paradigm," Policy Paper, Agence Francaise de Developpement, 2020, [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).
