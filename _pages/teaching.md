@@ -8,7 +8,7 @@ author_profile: true
 ## Supervised student projects
 ### Master's theses
 * Bhavya Sukhija, ETH Zürich, 2021 (awarded with the ETH medal).
-* Hannah Markgraf, RWTH Aachen University, 2021 (main supervisor: [Emma Pabich](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team-CMS-Artikel-/~jlrop/Emma-Pabich/lidx/1/).
+* Hannah Markgraf, RWTH Aachen University, 2021 (main supervisor: [Emma Pabich](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team-CMS-Artikel-/~jlrop/Emma-Pabich/lidx/1/)).
 * Niklas Funk, ETH Zürich, 2020 (awarded with the ETH medal).
 * Erik Hörmann, Sapienza University of Rome, 2020.
 * Jose Mario Mastrangelo, ETH Zürich, 2019.
