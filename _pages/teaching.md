@@ -32,7 +32,7 @@ Teaching assistant, material design and teaching of exercise lectures.
 Design and supervision of a project for a group of three students.
 
 ### Tutorial "Introduction to Control Theory," Arosa, Switzerland, 2018
-Preparation and presentation of Python example. The tutorial was part of a winter school of the DFG Priority Program on "Cyber-physical Networking."
+Preparation and presentation of Python examples. The tutorial was part of a winter school of the DFG Priority Program on "Cyber-physical Networking."
 
 ### Course "Mathematics for Electrical Engineering," TU Dresden, Germany, 2013-2016
 Teaching exercise lectures for groups of up to 50 engineering students.
