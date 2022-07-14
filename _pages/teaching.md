@@ -7,9 +7,10 @@ author_profile: true
 
 ## Supervised student projects
 ### Master's theses
-* Bhavya Sukhija, ETH Zürich, 2021 (awarded with the ETH medal).
+* Tom Jericho, RWTH Aachen University, 2022 (industrial master's student with VW).
+* Bhavya Sukhija, ETH Zürich, 2021 (awarded with the ETH medal for outstanding master's theses).
 * Hannah Markgraf, RWTH Aachen University, 2021 (main supervisor: [Emma Pabich](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team-CMS-Artikel-/~jlrop/Emma-Pabich/lidx/1/)).
-* Niklas Funk, ETH Zürich, 2020 (awarded with the ETH medal).
+* Niklas Funk, ETH Zürich, 2020 (awarded with the ETH medal for outstanding master's theses).
 * Erik Hörmann, Sapienza University of Rome, 2020.
 * Jose Mario Mastrangelo, ETH Zürich, 2019.
 * Oleksandr Zlatov, University of Tübingen, 2018
@@ -19,7 +20,13 @@ author_profile: true
 
 ## Lectures, Tutorials
 
-### Tutorial "An Introduction to Artificial Intelligence," RWTH Aachen University, Germany
+### Course "Automatic Control II," Uppsala University, Sweden, 2022
+Teaching assistant, teaching of exercise lectures.
+
+### Course "Reinforcement Learning," Uppsala University, Sweden 2022
+Design and teaching of two lectures on exploration theory, and recent advances and challenges of reinforcement learning.
+
+### Tutorial "An Introduction to Artificial Intelligence," RWTH Aachen University, Germany, 2021
 Design and teaching of four lectures as part of the summer school  "Production Technology meets Industry 4.0."
 
 ### Seminar "Ethics of Artificial Intelligence and Robotics," RWTH Aachen University, Germany, 2021
