@@ -24,12 +24,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * A. Gräfe, D. Baumann, and S. Trimpe, "Remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control (accepted), Cancun, Mexico, 2022.
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” in IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
-* J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” in IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019, [arXiv](https://arxiv.org/abs/1907.12300).
-* D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, “Event-triggered pulse control with model learning (if necessary),” in American Control Conference, Philadelphia, PA, USA, 2019, [arXiv](https://arxiv.org/abs/1903.08046).
-* F. Mager, D. Baumann, R. Jacob, L. Thiele, S. Trimpe, and M. Zimmerling, “Feedback control goes wireless: Guaranteed stability over low-power multi-hop networks,” in ACM/IEEE International Conference on Cyber-Physical Systems, (**Best Paper Award**), Montréal, Canada, 2019, [arXiv](https://arxiv.org/abs/1804.08986).
-* D. Baumann, J.-J. Zhu, G. Martius, and S. Trimpe, “Deep reinforcement learning for event-triggered control,” in IEEE International Conference on Decision and Control, Miami, FL, USA, 2018, [arXiv](https://arxiv.org/abs/1809.05152).
-* F. Solowjow, D. Baumann, J. Garcke, and S. Trimpe, “Event-triggered learning for resource-efficient networked control,” in American Control Conference, Milwaukee, WI, USA, 2018, [arXiv](https://arxiv.org/abs/1803.01802).
-* D. Baumann, F. Mager, H. Singh, M. Zimmerling, and S. Trimpe, “Evaluating low-power wireless cyber-physical systems,” in IEEE Workshop on Benchmarking Cyber-Physical Networks and Systems, Porto, Portugal, 2018, [arXiv](https://arxiv.org/abs/1804.09582).
+* J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019, [arXiv](https://arxiv.org/abs/1907.12300).
+* D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, “Event-triggered pulse control with model learning (if necessary),” American Control Conference, Philadelphia, PA, USA, 2019, [arXiv](https://arxiv.org/abs/1903.08046).
+* F. Mager, D. Baumann, R. Jacob, L. Thiele, S. Trimpe, and M. Zimmerling, “Feedback control goes wireless: Guaranteed stability over low-power multi-hop networks,” ACM/IEEE International Conference on Cyber-Physical Systems, (**Best Paper Award**), Montréal, Canada, 2019, [arXiv](https://arxiv.org/abs/1804.08986).
+* D. Baumann, J.-J. Zhu, G. Martius, and S. Trimpe, “Deep reinforcement learning for event-triggered control,” IEEE International Conference on Decision and Control, Miami, FL, USA, 2018, [arXiv](https://arxiv.org/abs/1809.05152).
+* F. Solowjow, D. Baumann, J. Garcke, and S. Trimpe, “Event-triggered learning for resource-efficient networked control,” American Control Conference, Milwaukee, WI, USA, 2018, [arXiv](https://arxiv.org/abs/1803.01802).
+* D. Baumann, F. Mager, H. Singh, M. Zimmerling, and S. Trimpe, “Evaluating low-power wireless cyber-physical systems,” IEEE Workshop on Benchmarking Cyber-Physical Networks and Systems, Porto, Portugal, 2018, [arXiv](https://arxiv.org/abs/1804.09582).
 
 ## Reports
 
