@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
-* D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research (accepted), 2022, [arXiv](https://arxiv.org/abs/2006.03906).
+* D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research, 2022, [arXiv](https://arxiv.org/abs/2006.03906).
 * F. Mager, D. Baumann, C. Herrmann, S. Trimpe, and M. Zimmerling, “Scaling beyond bandwidth limitations: Wireless control with stability guarantees under overload,” ACM Transactions on Cyber-Physical Systems, 2022, [arXiv](https://arxiv.org/abs/2104.07989).
 * D. Baumann, F. Mager, U. Wetzker, L. Thiele, M. Zimmerling, and S. Trimpe, “Wireless control for smart manufacturing: Recent approaches and open challenges,” Proceedings of the IEEE, 2021, [arXiv](https://arxiv.org/abs/2010.09087).
 * N. Funk, D. Baumann, V. Berenz, and S. Trimpe, “Learning event-triggered control from data through joint optimization,” IFAC Journal of Systems and Control, 2021, [arXiv](https://arxiv.org/abs/2008.04712).
@@ -33,5 +33,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Reports
 
-* S. Weichwald, S. W. Morgensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track (accepted), 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
+* S. Weichwald, S. W. Morgensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track, 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
 * P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging uses of technology for development: A new intelligence paradigm," Policy Paper, Agence Francaise de Developpement, 2020, [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).

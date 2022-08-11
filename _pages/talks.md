@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** "Safe reinforcement learning on a Quanser Qube," Quanser YOUser Webinar, Sep. 2022.
+* **Talk:** "Safe reinforcement learning: global exploration and discrete contexts," KTH Royal Institute of Technology, Stockholm, Sweden, Aug. 2022.
 * **Talk:** "Automatic control of cyber-physical systems," Aalto University, Espoo, Finland, Apr. 2022.
 * **Talk:** "Systems and control theory for autonomous and interacting agents," University of Stuttgart, Stuttgart, Germany, Nov. 2021.
 * **Talk:** "Causality in learning-based control," RWTH Aachen University, Aachen, Germany, Sep. 2021.
