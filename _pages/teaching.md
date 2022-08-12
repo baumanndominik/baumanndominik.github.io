@@ -7,6 +7,8 @@ author_profile: true
 
 ## Supervised student projects
 ### Master's theses
+* Joel Bjervig, Uppsala University, 2022 (industrial master's student with Scania).
+* Julia Freytag, RWTH Aachen University, 2022.
 * Tom Jericho, RWTH Aachen University, 2022 (industrial master's student with VW).
 * Bhavya Sukhija, ETH Zürich, 2021 (awarded with the ETH medal for outstanding master's theses).
 * Hannah Markgraf, RWTH Aachen University, 2021 (main supervisor: [Emma Pabich](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team-CMS-Artikel-/~jlrop/Emma-Pabich/lidx/1/)).
@@ -16,6 +18,7 @@ author_profile: true
 * Oleksandr Zlatov, University of Tübingen, 2018
 
 ### Bachelor's theses
+* Lukas Kesper, RWTH Aachen University, 2022.
 * Yannick Streicher, University of Tübingen, 2021.
 
 ## Lectures, Tutorials
