@@ -15,7 +15,7 @@ author_profile: true
 * Niklas Funk, ETH Zürich, 2020 (awarded with the ETH medal for outstanding master's theses).
 * Erik Hörmann, Sapienza University of Rome, 2020.
 * Jose Mario Mastrangelo, ETH Zürich, 2019.
-* Oleksandr Zlatov, University of Tübingen, 2018
+* Oleksandr Zlatov, University of Tübingen, 2018.
 
 ### Bachelor's theses
 * Lukas Kesper, RWTH Aachen University, 2022.
