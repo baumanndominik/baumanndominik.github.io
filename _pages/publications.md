@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control (accepted), Cancun, Mexico, 2022.
+* A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control (accepted), Cancun, Mexico, 2022, [arXiv](https://arxiv.org/abs/2209.15498).
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
 * J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019, [arXiv](https://arxiv.org/abs/1907.12300).
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, “Event-triggered pulse control with model learning (if necessary),” American Control Conference, Philadelphia, PA, USA, 2019, [arXiv](https://arxiv.org/abs/1903.08046).
