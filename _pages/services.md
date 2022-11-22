@@ -18,4 +18,5 @@ author_profile: true
 ## Public outreach
 
 * Participation in open house days.
+* Contribution to "[Selected Readings on AI for Development](https://medium.com/data-stewards-network/selected-readings-on-ai-for-development-24aff54fdc8)." 
 * Talk with subsequent discussion on "AI regulation" at student association FMS of Uppsala University.
