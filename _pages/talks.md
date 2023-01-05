@@ -14,13 +14,13 @@ author_profile: true
 * **Talk:** Seminar at Aalto University, Espoo, Finland (virtual), Apr. 2022.
 * **Talk:** Seminar at University of Stuttgart, Stuttgart, Germany, Nov. 2021.
 * **Talk:** Research Seminar on AI, RWTH Aachen University, Aachen, Germany (virtual), Sep. 2021.
-* **Talk:** GMA 1.50 Workshop on Fundamentals of Networked on Learning Systems, Günzburg, Germany (virtual), Mar. 2021.
+* **Talk:** GMA 1.50 Workshop on Fundamentals of Networked and Learning Systems, Günzburg, Germany (virtual), Mar. 2021.
 * **Talk:** Seminar at ETH Zürich, Zürich, Switzerland (virtual), Jan. 2021.
 * **Talk:** IEEE Conference on Decision and Control, Nice, France, Dec. 2019.
 * **Talk:** Seminar at Uppsala University, Uppsala, Sweden, Dec. 2019.
 * **Poster:** Digitalize in Stockholm, Stockholm, Sweden, Nov. 2019.
-* **Talk:** GMA 1.40 Meeting on Systems and Control Theory, Anif, Austria, Sep. 2019.
-* **Talk:** GMA 1.50 Meeting on Fundamentals of Networked on Learning Systems, Günzburg, Germany, Mar. 2019.
+* **Talk:** GMA 1.40 Workshop on Systems and Control Theory, Anif, Austria, Sep. 2019.
+* **Talk:** GMA 1.50 Workshop on Fundamentals of Networked and Learning Systems, Günzburg, Germany, Mar. 2019.
 * **Poster:** Bosch Conference on Artificial Intelligence, Renningen, Germany, Nov. 2018.
 * **Talk:** Reglermöte (Swedish Control Conference), Stochkolm, Sweden, Jun. 2018.
 * **Poster:** Max Planck ETH Workshop on Learning Control, Zürich, Switzerland, Feb. 2018.
