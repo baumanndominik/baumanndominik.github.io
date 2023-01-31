@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Ergodicity Economoics Conference, virtual, Jan. 2023.
 * **Talk:** Seminar at Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany, Jan. 2023.
 * **Talk:** Seminar at TU Eindhoven, Eindhoven, The Netherlands, Nov. 2022.
 * **Talk:** Seminar at Oxford University, Oxford, United Kingdom, Nov. 2022.
