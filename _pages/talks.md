@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Seminar at the Finnish Center for Artificial Intelligence, Espoo, Finland, Mar. 2023.
 * **Talk:** Seminar at University of Turku, Turku, Finland, Feb. 2023.
 * **Talk:** Ergodicity Economoics Conference, virtual, Jan. 2023.
 * **Talk:** Seminar at Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany, Jan. 2023.
