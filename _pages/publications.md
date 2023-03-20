@@ -36,8 +36,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Reports
 
-* S. Weichwald, S. W. Morgensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track, 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
-* P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging uses of technology for development: A new intelligence paradigm," Policy Paper, Agence Francaise de Developpement, 2020, [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).
+* S. Weichwald, S. W. Mogensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track, 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
+* P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging uses of technology for development: A new intelligence paradigm," Policy Paper, Agence Française de Développement, 2020, [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).
 
 ## Theses
 * D. Baumann, "Learning and control strategies for cyber-physcial systems: From wireless control over deep reinforcement learning to causal identification," Ph.D. Thesis, KTH Stockholm, Sweden, 2020, [DiVA](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1500552&dswid=5226).
