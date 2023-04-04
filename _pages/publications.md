@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conferences
 
 * L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Conference on Learning for Dynamics and Control (accepted), Philadelphia, PA, USA, 2023.
-* D. Baumann and T. B. Schön, "On event-based and periodic state estimation for resource-constrained multi-agent systems," IFAC World Congress (accepted), Yokohama, Japan, 2023.
+* D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress (accepted), Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
 * A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control, Cancun, Mexico, 2022, [arXiv](https://arxiv.org/abs/2209.15498).
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
 * J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019, [arXiv](https://arxiv.org/abs/1907.12300).
