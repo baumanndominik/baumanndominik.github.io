@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Community services
+* Program committee member for the competition track of Advances in Neural Information Processing Systems, New Orleans, LA, USA, 2023.
 * Associate editor for the IEEE International Conference on Multisensor Fusion and Integration, Cranfield, UK, 2022.
 * Program committee member for the competition track of Advances in Neural Information Processing Systems, New Orleans, LA, USA, 2022.
 * Associate editor for the IFAC Conference on Advances in Control Education, Hamburg, Germany, 2022.
