@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
-* B. Sukhija, M. Turchetta, D. Lindner, A. Krause, S. Trimpe, and D. Baumann, "GoSafeOpt: Scalable safe exploration for global optimization of dynamical systems," Artificial Intelligence, 2023, [arXiv](https://arxiv.org/abs/2201.09562)
+* B. Sukhija, M. Turchetta, D. Lindner, A. Krause, S. Trimpe, and D. Baumann, "GoSafeOpt: Scalable safe exploration for global optimization of dynamical systems," Artificial Intelligence, 2023, [arXiv](https://arxiv.org/abs/2201.09562).
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research, 2022, [arXiv](https://arxiv.org/abs/2006.03906).
 * F. Mager, D. Baumann, C. Herrmann, S. Trimpe, and M. Zimmerling, “Scaling beyond bandwidth limitations: Wireless control with stability guarantees under overload,” ACM Transactions on Cyber-Physical Systems, 2022, [arXiv](https://arxiv.org/abs/2104.07989).
 * D. Baumann, F. Mager, U. Wetzker, L. Thiele, M. Zimmerling, and S. Trimpe, “Wireless control for smart manufacturing: Recent approaches and open challenges,” Proceedings of the IEEE, 2021, [arXiv](https://arxiv.org/abs/2010.09087).
@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Conference on Learning for Dynamics and Control (accepted), Philadelphia, PA, USA, 2023.
+* L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Conference on Learning for Dynamics and Control (accepted), Philadelphia, PA, USA, 2023, [arXiv](http://arxiv.org/abs/2305.08723).
 * D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress (accepted), Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
 * A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control, Cancun, Mexico, 2022, [arXiv](https://arxiv.org/abs/2209.15498).
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
