@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Current teaching
+
+I am currently teaching the courses
+* [Digital and Optimal Control](https://mycourses.aalto.fi/course/view.php?id=39450)
+* [Control of Networked Multi-agent Systems](https://courses.aalto.fi/s/course/a057T00000IdbOxQAJ/networked-control-of-multiagent-systems?language=en_US)
+in the Electrical Engineering and Automation master with major Control, Robotics, and Autonomous Systems at Aalto University. For details, check the course pages!
+
 ## Supervised student projects
 ### Master's theses
 * Joel Bjervig, Uppsala University, 2022 (industrial master's student with Scania).
@@ -21,7 +28,7 @@ author_profile: true
 * Lukas Kesper, RWTH Aachen University, 2022.
 * Yannick Streicher, University of Tübingen, 2021.
 
-## Lectures, Tutorials
+## Past Lectures and Tutorials
 
 ### Course "Automatic Control II," Uppsala University, Sweden, 2022
 Teaching assistant, teaching of exercise lectures.
