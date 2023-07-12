@@ -23,10 +23,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
+* D. Baumann, Krzysztof Kowalczyk, Koen Tiels, and Paweł Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control (accepted), Singapore, Singapore, 2023.
 * D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress (accepted), Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
 * L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Learning for Dynamics and Control Conference, Philadelphia, PA, USA, 2023, [arXiv](http://arxiv.org/abs/2305.08723).
 * A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control, Cancun, Mexico, 2022, [arXiv](https://arxiv.org/abs/2209.15498).
-* D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “Gosafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
+* D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “GoSafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
 * J. M. Mastrangelo, D. Baumann, and S. Trimpe, “Predictive triggering for distributed control of resource constrained multi-agent systems,” IFAC Workshop on Distributed Estimation and Control in Networked Systems, Chicago, IL, USA, 2019, [arXiv](https://arxiv.org/abs/1907.12300).
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, “Event-triggered pulse control with model learning (if necessary),” American Control Conference, Philadelphia, PA, USA, 2019, [arXiv](https://arxiv.org/abs/1903.08046).
 * F. Mager, D. Baumann, R. Jacob, L. Thiele, S. Trimpe, and M. Zimmerling, “Feedback control goes wireless: Guaranteed stability over low-power multi-hop networks,” ACM/IEEE International Conference on Cyber-Physical Systems, (**Best Paper Award**), Montréal, Canada, 2019, [arXiv](https://arxiv.org/abs/1804.08986).
