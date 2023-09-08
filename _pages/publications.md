@@ -23,8 +23,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* D. Baumann, Krzysztof Kowalczyk, Koen Tiels, and Paweł Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control (accepted), Singapore, Singapore, 2023.
-* D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress (accepted), Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
+* D. Baumann, K. Kowalczyk, K. Tiels, and P. Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control (accepted), Singapore, Singapore, 2023, [arXiv](https://arxiv.org/abs/2309.03672).
+* D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress, Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
 * L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Learning for Dynamics and Control Conference, Philadelphia, PA, USA, 2023, [arXiv](http://arxiv.org/abs/2305.08723).
 * A. Gräfe, D. Baumann, and S. Trimpe, "Towards remote fault detection by analyzing communication priorities," IEEE Conference on Decision and Control, Cancun, Mexico, 2022, [arXiv](https://arxiv.org/abs/2209.15498).
 * D. Baumann, A. Marco, M. Turchetta, and S. Trimpe, “GoSafe: Globally optimal safe robot learning,” IEEE International Conference on Robotics and Automation, Xi’an, China, 2021, [arXiv](https://arxiv.org/abs/2105.13281).
