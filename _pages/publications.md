@@ -37,6 +37,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Reports
 
+* O. Hulme, A. Vanhoyweghen, C. Connaughton, O. Peters, S. Steinkamp, A. Adamou, D. Baumann, V. Ginis, B. Verbruggen, J. Price, and B. Skjold, "Reply to 'The limitations of growth-optimal approaches to decision making under uncertainty,'" Econ Journal Watch, 2023, [PDF](https://econjwatch.org/File+download/1283/HulmeEtAlSept2023.pdf?mimetype=pdf).
 * S. Weichwald, S. W. Mogensen, T. E. Lee, D. Baumann, O. Kroemer, I. Guyon, S. Trimpe, J. Peters, and N. Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track, 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
 * P. M. Addo, D. Baumann, J. McMurren, S. G. Verhulst, A. Young, and A. J. Zahuranec, "Emerging uses of technology for development: A new intelligence paradigm," Policy Paper, Agence Française de Développement, 2020, [SRRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937649).
 
