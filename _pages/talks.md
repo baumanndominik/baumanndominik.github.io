@@ -8,7 +8,7 @@ author_profile: true
 * **Talk:** Seminar at Osaka University, Osaka, Japan, Jul. 2023.
 * **Talk:** Seminar at the Finnish Center for Artificial Intelligence, Espoo, Finland, Mar. 2023.
 * **Talk:** Seminar at University of Turku, Turku, Finland, Feb. 2023.
-* **Talk:** Ergodicity Economoics Conference, virtual, Jan. 2023.
+* **Talk:** Ergodicity Economics Conference, virtual, Jan. 2023.
 * **Talk:** Seminar at Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany, Jan. 2023.
 * **Talk:** Seminar at TU Eindhoven, Eindhoven, The Netherlands, Nov. 2022.
 * **Talk:** Seminar at Oxford University, Oxford, United Kingdom, Nov. 2022.
