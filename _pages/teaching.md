@@ -29,6 +29,7 @@ in the Electrical Engineering and Automation master with major Control, Robotics
 * Oleksandr Zlatov, University of Tübingen, 2018.
 
 ### Bachelor's theses
+* Erkka Multanen, Aalto University, 2023.
 * Lukas Kesper, RWTH Aachen University, 2022.
 * Yannick Streicher, University of Tübingen, 2021.
 

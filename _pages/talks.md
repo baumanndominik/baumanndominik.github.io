@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Poster**: AI day of the Finnish Center for Artificial Intelligence (FCAI), Espoo, Finland, Nov. 2023.
 * **Talk:** Seminar at Osaka University, Osaka, Japan, Jul. 2023.
 * **Talk:** Seminar at the Finnish Center for Artificial Intelligence, Espoo, Finland, Mar. 2023.
 * **Talk:** Seminar at University of Turku, Turku, Finland, Feb. 2023.
