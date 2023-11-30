@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Talk**: Seminar at Wrocław University of Science and Technology, Wrocław, Poland (virtual), Nov. 2023.
-* **Talk**: Smart Mobility and Robotics Seminar - Future of RObotics in Finland, hosted by the IEEE Finland CSS/RAS/SCMCS Joint Chapter, Espoo, Finland, Nov. 2023.
+* **Talk**: Smart Mobility and Robotics Seminar - Future of Robotics in Finland, hosted by the IEEE Finland CSS/RAS/SCMCS Joint Chapter, Espoo, Finland, Nov. 2023.
 * **Poster**: AI day of the Finnish Center for Artificial Intelligence (FCAI), Espoo, Finland, Nov. 2023.
 * **Talk:** Seminar at Osaka University, Osaka, Japan, Jul. 2023.
 * **Talk:** Seminar at the Finnish Center for Artificial Intelligence, Espoo, Finland, Mar. 2023.
