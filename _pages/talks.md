@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk**: Seminar at Nanyang Technological University, Singapore, Singapore, Dec. 2023.
+* **Talk**: Seminar at the National University of Singapore, Singapore, Singapore, Dec. 2023.
 * **Talk**: Seminar at Wrocław University of Science and Technology, Wrocław, Poland (virtual), Nov. 2023.
 * **Talk**: Smart Mobility and Robotics Seminar - Future of Robotics in Finland, hosted by the IEEE Finland CSS/RAS/SCMCS Joint Chapter, Espoo, Finland, Nov. 2023.
 * **Poster**: AI day of the Finnish Center for Artificial Intelligence (FCAI), Espoo, Finland, Nov. 2023.
