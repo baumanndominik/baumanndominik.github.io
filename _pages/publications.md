@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
-* T. B. Schön and D. Baumann, "Safe reinforcement learning in uncertain contexts," IEEE Transactions on Robotics (accepted), to appear in 2024.
+* D. Baumann and T. B. Schön, "Safe reinforcement learning in uncertain contexts," IEEE Transactions on Robotics (accepted), to appear in 2024.
 * B. Sukhija, M. Turchetta, D. Lindner, A. Krause, S. Trimpe, and D. Baumann, "GoSafeOpt: Scalable safe exploration for global optimization of dynamical systems," Artificial Intelligence, 2023, [arXiv](https://arxiv.org/abs/2201.09562).
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research, 2022, [arXiv](https://arxiv.org/abs/2006.03906).
 * F. Mager, D. Baumann, C. Herrmann, S. Trimpe, and M. Zimmerling, “Scaling beyond bandwidth limitations: Wireless control with stability guarantees under overload,” ACM Transactions on Cyber-Physical Systems, 2022, [arXiv](https://arxiv.org/abs/2104.07989).
