@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research Group"
+    url: "/research_group/"
+    
   - title: "Publications"
     url: /publications/
 
