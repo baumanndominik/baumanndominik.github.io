@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Ergodicity Economics Conference, virtual, Feb. 2024.
 * **Talk**: Seminar at Nanyang Technological University, Singapore, Singapore, Dec. 2023.
 * **Talk**: Seminar at the National University of Singapore, Singapore, Singapore, Dec. 2023.
 * **Talk**: Seminar at Wrocław University of Science and Technology, Wrocław, Poland (virtual), Nov. 2023.

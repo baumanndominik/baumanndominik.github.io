@@ -9,29 +9,9 @@ author_profile: true
 
 I am currently teaching the courses
 * [Digital and Optimal Control](https://mycourses.aalto.fi/course/view.php?id=39450)
-* [Control of Networked Multi-agent Systems](https://courses.aalto.fi/s/course/a057T00000IdbOxQAJ/networked-control-of-multiagent-systems?language=en_US)
+* [Control of Networked Multi-agent Systems](https://mycourses.aalto.fi/course/view.php?id=39432)
 
 in the Electrical Engineering and Automation master with major Control, Robotics, and Autonomous Systems at Aalto University. For details, check the course pages!
-
-## Supervised student projects
-### Master's theses
-* Deng Mingwei, Uppsala University, 2023.
-* Filip Pagliaro, Uppsala University, 2023.
-* Ankit Khanderparkar, Uppsala University, 2023.
-* Joel Bjervig, Uppsala University, 2022 (industrial master's student with Scania).
-* Julia Freytag, RWTH Aachen University, 2022.
-* Tom Jericho, RWTH Aachen University, 2022 (industrial master's student with VW).
-* Bhavya Sukhija, ETH Zürich, 2021 (awarded with the ETH medal for outstanding master's theses).
-* Hannah Markgraf, RWTH Aachen University, 2021 (main supervisor: [Emma Pabich](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team-CMS-Artikel-/~jlrop/Emma-Pabich/lidx/1/)).
-* Niklas Funk, ETH Zürich, 2020 (awarded with the ETH medal for outstanding master's theses).
-* Erik Hörmann, Sapienza University of Rome, 2020.
-* Jose Mario Mastrangelo, ETH Zürich, 2019.
-* Oleksandr Zlatov, University of Tübingen, 2018.
-
-### Bachelor's theses
-* Erkka Multanen, Aalto University, 2023.
-* Lukas Kesper, RWTH Aachen University, 2022.
-* Yannick Streicher, University of Tübingen, 2021.
 
 ## Past Lectures and Tutorials
 
