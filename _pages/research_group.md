@@ -13,5 +13,5 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 <sup>Postdoctoral Researcher</sup>
 * [Abdullah Tokmak](https://research.aalto.fi/en/persons/abdullah-tokmak)  
 <sup>Ph.D. Student</sup>
-* Deng Mingwei  
+* [Deng Mingwei](https://research.aalto.fi/en/persons/mingwei-deng)  
 <sup>Ph.D. Student</sup>
