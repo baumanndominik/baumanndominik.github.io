@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Poster:** Workshop on the Foundations of RL and Control at the International Conference on Machine Learning, Vienna, Austria, Jul. 2024.
-* * **Poster:** Workshop on Aligning Reinforcement Learning Experimentalists and Theorists at the International Conference on Machine Learning, Vienna, Austria, Jul. 2024.
+* **Poster:** Workshop on Aligning Reinforcement Learning Experimentalists and Theorists at the International Conference on Machine Learning, Vienna, Austria, Jul. 2024.
 * **Talk:** Ergodicity Economics Conference, virtual, Feb. 2024.
 * **Talk**: Seminar at Nanyang Technological University, Singapore, Singapore, Dec. 2023.
 * **Talk**: Seminar at the National University of Singapore, Singapore, Singapore, Dec. 2023.
