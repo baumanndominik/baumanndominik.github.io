@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* A. Tokmak, T. B. Schön, D. Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, Stuttgart, Germany, 2024 (accepted).
+* A. Tokmak, T. B. Schön, and D. Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, Stuttgart, Germany, 2024 (accepted).
 * D. Baumann, K. Kowalczyk, K. Tiels, and P. Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control, Singapore, Singapore, 2023, [arXiv](https://arxiv.org/abs/2309.03672).
 * D. Baumann and T. B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress, Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
 * L. Kesper, S. Trimpe, and D. Baumann, "Toward multi-agent reinforcement learning for distributed event-triggered control," Learning for Dynamics and Control Conference, Philadelphia, PA, USA, 2023, [arXiv](http://arxiv.org/abs/2305.08723).
