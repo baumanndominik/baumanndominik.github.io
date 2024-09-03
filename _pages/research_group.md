@@ -15,3 +15,7 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 <sup>Ph.D. Student</sup>
 * [Mingwei Deng](https://research.aalto.fi/en/persons/mingwei-deng)  
 <sup>Ph.D. Student</sup>
+* [Zheng Shen](https://research.aalto.fi/en/persons/zheng-shen)  
+<sup>Ph.D. Student</sup>
+* [Xinyi Sheng](https://research.aalto.fi/en/persons/xinyi-sheng)  
+<sup>Ph.D. Student</sup>
