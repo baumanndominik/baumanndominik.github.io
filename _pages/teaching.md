@@ -13,6 +13,8 @@ I am currently teaching the courses
 
 in the Electrical Engineering and Automation master with major Control, Robotics, and Autonomous Systems at Aalto University. For details, check the course pages!
 
+I am also teaching the bachelor's course [Säätötekniikka](https://mycourses.aalto.fi/course/view.php?id=43452) together with [Simo Särkkä](https://users.aalto.fi/~ssarkka/).
+
 ## Past Lectures and Tutorials
 
 ### Course "Automatic Control II," Uppsala University, Sweden, 2022
