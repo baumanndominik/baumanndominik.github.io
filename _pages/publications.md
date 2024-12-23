@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journals
 
 <!---* S. He, A. von Rohr, D. Baumann, J. Xiang, and S. Trimpe, "Simulation-aided policy tuning for black-box robot learning," IEEE Transactions on Robotics, 2024 (conditaionally accepted), [arXiv](https://arxiv.org/abs/2411.14246).-->
-* D. Baumann, E. Noorani, J. Price, O. Peters, C. Connaughton, and T. B. Schön, "Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations," Transactions on Machine Learning Research, [arXiv](https://arxiv.org/abs/2310.11335).
+* D. Baumann, E. Noorani, J. Price, O. Peters, C. Connaughton, and T. B. Schön, "Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations," Transactions on Machine Learning Research, [arXiv](https://arxiv.org/abs/2310.11335) (accepted).
 * D. Baumann and T. B. Schön, "Safe reinforcement learning in uncertain contexts," IEEE Transactions on Robotics, 2024, [arXiv](https://arxiv.org/abs/2401.05876).
 * B. Sukhija, M. Turchetta, D. Lindner, A. Krause, S. Trimpe, and D. Baumann, "GoSafeOpt: Scalable safe exploration for global optimization of dynamical systems," Artificial Intelligence, 2023, [arXiv](https://arxiv.org/abs/2201.09562).
 * D. Baumann, F. Solowjow, K. H. Johansson, and S. Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research, 2022, [arXiv](https://arxiv.org/abs/2006.03906).
