@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Community services
-* Co-chair of the Finland section of the joint chapter of the IEEE Control Systems, Robotics and Automation, and Systems, Man, and Cybernetics communities.
+* Co-chair of the Finland section of the joint chapter of the IEEE Control Systems, Robotics and Automation, and Systems, Man, and Cybernetics communities, 2025-2026.
 * Member of the Equality, Diversity, and Inclusion Group of the School of Electrical Engineering at Aalto University, 2025-2026.
-* Co-organization of a competition on "Learning by Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality" at Advances in Neural Information Processing Systems, held virtually in 2021.
-* Co-organization of an open invited track on "Control for Next Generation Wireless Networks" at the IFAC World Congress, held virtually in 2020.
+* Co-organization of a competition on "Learning by Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality" at Advances in Neural Information Processing Systems, 2021.
+* Co-organization of an open invited track on "Control for Next Generation Wireless Networks" at the IFAC World Congress, 2020.
 * Ombudsperson at the Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018-2021.
 
 ## Associate edditor and program committee member for conferences
