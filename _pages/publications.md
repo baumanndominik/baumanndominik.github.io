@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journals
 
 * Shiming He, Alexander von Rohr, Dominik Baumann, Ji Xiang, and Sebastian Trimpe, "Simulation-aided policy tuning for black-box robot learning," IEEE Transactions on Robotics, 2025 (accepted), [arXiv](https://arxiv.org/abs/2411.14246).
-* Dominik Baumann, Erfaun Noorani, James Price, Ole Peters, Colm Connaughton, and Thomas B. Schön, "Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations," Transactions on Machine Learning Research, 2025 (accepted), [arXiv](https://arxiv.org/abs/2310.11335).
+* Dominik Baumann, Erfaun Noorani, James Price, Ole Peters, Colm Connaughton, and Thomas B. Schön, "Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations," Transactions on Machine Learning Research, 2025, [arXiv](https://arxiv.org/abs/2310.11335).
 * Dominik Baumann and Thomas B. Schön, "Safe reinforcement learning in uncertain contexts," IEEE Transactions on Robotics, 2024, [arXiv](https://arxiv.org/abs/2401.05876).
 * Bhavya Sukhija, Matteo Turchetta, David Lindner, Andreas Krause, Sebastian Trimpe, and Dominik Baumann, "GoSafeOpt: Scalable safe exploration for global optimization of dynamical systems," Artificial Intelligence, 2023, [arXiv](https://arxiv.org/abs/2201.09562).
 * Dominik Baumann, Friedrich Solowjow, Karl H. Johansson, and Sebastian Trimpe, "Identifying causal structure in dynamical systems," Transactions on Machine Learning Research, 2022, [arXiv](https://arxiv.org/abs/2006.03906).
@@ -26,6 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
+* Abdullah Tokmak, Kiran G. Krishnan, Thomas B. Schön, and Dominik Baumann, "Safe exploration in reproducing kernel Hilbert spaces," International Conference on Artificial Intelligence and Statistics," Mai Khao, Thailand, 2025 (accepted).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, Stuttgart, Germany, 2024, [arXiv](https://arxiv.org/abs/2409.01163).
 * Dominik Baumann, Krzysztof Kowalczyk, Koen Tiels, and Paweł Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control, Singapore, Singapore, 2023, [arXiv](https://arxiv.org/abs/2309.03672).
 * Dominik Baumann and Thomas B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress, Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
