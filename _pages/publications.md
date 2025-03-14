@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conferences
 
 * Mingwei Deng, Ville Kyrki, and Dominik Baumann, "Transfer learning in latent contextual bandits with covariate shift through causal transportability," Conference on Causal Learning and Reasoning, Lausanne, Switzerland, 2025, [arXiv](https://arxiv.org/abs/2502.20153).
-* Abdullah Tokmak, Kiran G. Krishnan, Thomas B. Schön, and Dominik Baumann, "Safe exploration in reproducing kernel Hilbert spaces," International Conference on Artificial Intelligence and Statistics," Mai Khao, Thailand, 2025 (accepted).
+* Abdullah Tokmak, Kiran G. Krishnan, Thomas B. Schön, and Dominik Baumann, "Safe exploration in reproducing kernel Hilbert spaces," International Conference on Artificial Intelligence and Statistics," Mai Khao, Thailand, 2025, [arXiv](https://arxiv.org/abs/2503.10352).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, Stuttgart, Germany, 2024, [arXiv](https://arxiv.org/abs/2409.01163).
 * Dominik Baumann, Krzysztof Kowalczyk, Koen Tiels, and Paweł Wachel, "A computationally lightweight safe learning algorithm," IEEE Conference on Decision and Control, Singapore, Singapore, 2023, [arXiv](https://arxiv.org/abs/2309.03672).
 * Dominik Baumann and Thomas B. Schön, "On the trade-off between event-based and periodic state estimation under bandwidth constraints," IFAC World Congress, Yokohama, Japan, 2023, [arXiv](https://arxiv.org/abs/2304.00559).
