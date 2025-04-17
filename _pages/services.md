@@ -13,9 +13,9 @@ author_profile: true
 * Ombudsperson at the Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018-2021.
 
 ## Associate edditor and program committee member for conferences
+* European Workshop on Reinforcement Learning, 2025.
 * IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024 and 2025.
 * IFAC Conference on Advances in Control Education, 2022 and 2025.
-* Competition track of Advances in Neural Information Processing Systems, 2022-2025.
 * IEEE International Conference on Multisensor Fusion and Integration, 2021 and 2022.
 * International Conference on Event-based Control, Communication, and Signal Processing, 2021.
 
