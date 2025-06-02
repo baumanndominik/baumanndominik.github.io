@@ -11,6 +11,8 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 
 * [Sara Pérez Vieites](https://sarapv.github.io/)  
 <sup>Postdoctoral Researcher</sup>
+* [Arsenii Mustafin](https://research.aalto.fi/en/persons/arsenii-mustafin)  
+<sup>Postdoctoral Researcher</sup>
 * [Abdullah Tokmak](https://tokmaka1.github.io/)  
 <sup>Ph.D. Student</sup>
 * [Mingwei Deng](https://research.aalto.fi/en/persons/mingwei-deng)  
