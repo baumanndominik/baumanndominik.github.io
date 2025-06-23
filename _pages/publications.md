@@ -28,6 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conferences
 
 * Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025 (accpeted).
+* Maryam K. Eskeri, Thomas Wiedemann, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "A lightweight crowd model for robot social navigation," European Conference on Mobile Robots, 2025 (accpeted).
 * Mingwei Deng, Ville Kyrki, and Dominik Baumann, "Transfer learning in latent contextual bandits with covariate shift through causal transportability," Conference on Causal Learning and Reasoning, 2025, [arXiv](https://arxiv.org/abs/2502.20153).
 * Abdullah Tokmak, Kiran G. Krishnan, Thomas B. Schön, and Dominik Baumann, "Safe exploration in reproducing kernel Hilbert spaces," International Conference on Artificial Intelligence and Statistics, 2025, [arXiv](https://arxiv.org/abs/2503.10352).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, 2024, [arXiv](https://arxiv.org/abs/2409.01163).
