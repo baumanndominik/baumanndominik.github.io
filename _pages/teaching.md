@@ -9,7 +9,7 @@ author_profile: true
 
 I am currently teaching the courses
 * [Digital and Optimal Control](https://courses.aalto.fi/courses/s/course/a053X000012Qy5oQAC/digital-and-optimal-control-d?language=en_US)
-* [Control of Networked Multi-agent Systems](https://courses.aalto.fi/s/course/a057T00000IdbOxQAJ/networked-control-of-multiagent-systems?language=en_US)
+* [Networked Control of Multi-agent Systems](https://courses.aalto.fi/s/course/a057T00000IdbOxQAJ/networked-control-of-multiagent-systems?language=en_US)
 
 in the Electrical Engineering and Automation master with major Control, Robotics, and Autonomous Systems at Aalto University. For details, check the course pages!
 
