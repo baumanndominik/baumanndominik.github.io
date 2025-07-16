@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Seminar at RWTH Aachen University, Aachen, Germany, July 2025.
 * **Talk:** Seminar at KTH Royal Institute of Technology, Stockholm, Sweden, Jan. 2025.
 * **Talk:** Seminar at the R&T Cluster AI & Autonomy meeting, virtual, Nov. 2024.
 * **Poster:** Workshop on the Foundations of RL and Control at the International Conference on Machine Learning, Vienna, Austria, Jul. 2024.
