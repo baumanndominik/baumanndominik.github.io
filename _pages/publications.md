@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025 (accepted).
+* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025 [arXiv](https://arxiv.org/abs/2508.13608).
 * Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025 (accepted).
 * Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025 (accpeted).
 * Maryam K. Eskeri, Thomas Wiedemann, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "A lightweight crowd model for robot social navigation," European Conference on Mobile Robots, 2025 (accpeted).
