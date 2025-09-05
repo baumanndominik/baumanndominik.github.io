@@ -23,3 +23,5 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 <sup>Ph.D. Student</sup>
 * [Juri Voloskin](https://fi.linkedin.com/in/juri-voloskin-44099058)  
 <sup>Industrial Ph.D. Student with ABB</sup>
+* [Shreeram Murali](https://shreeram-murali.github.io/)  
+<sup>Ph.D. Student</sup>

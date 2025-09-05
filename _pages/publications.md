@@ -27,10 +27,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025 [arXiv](https://arxiv.org/abs/2508.13608).
-* Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025 (accepted).
-* Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025 (accpeted).
-* Maryam K. Eskeri, Thomas Wiedemann, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "A lightweight crowd model for robot social navigation," European Conference on Mobile Robots, 2025 (accpeted).
+* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.13608).
+* Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.21443).
+* Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025, [arXiv](https://arxiv.org/abs/2508.19731).
+* Maryam K. Eskeri, Thomas Wiedemann, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "A lightweight crowd model for robot social navigation," European Conference on Mobile Robots, 2025, [arXiv](https://arxiv.org/abs/2508.19595).
 * Mingwei Deng, Ville Kyrki, and Dominik Baumann, "Transfer learning in latent contextual bandits with covariate shift through causal transportability," Conference on Causal Learning and Reasoning, 2025, [arXiv](https://arxiv.org/abs/2502.20153).
 * Abdullah Tokmak, Kiran G. Krishnan, Thomas B. Schön, and Dominik Baumann, "Safe exploration in reproducing kernel Hilbert spaces," International Conference on Artificial Intelligence and Statistics, 2025, [arXiv](https://arxiv.org/abs/2503.10352).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "PACSBO: Probably approximately correct safe Bayesian optimization," Symposium on Systems Theory in Data and Optimization, 2024, [arXiv](https://arxiv.org/abs/2409.01163).
