@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Workshop on Sustainable Societal Metabolisms, Leipzig, Germany, Nov. 2025.
+* **Talk:** IEEE Workshop on Emerging Trends in Automatic Control, Espoo, Finland, Sep. 2025.
 * **Poster:** European Workshop on Reinforcement Learning, Tübingen, Germany, Sep. 2025.
 * **Talk:** Seminar at RWTH Aachen University, Aachen, Germany, Jul. 2025.
 * **Talk:** Seminar at KTH Royal Institute of Technology, Stockholm, Sweden, Jan. 2025.

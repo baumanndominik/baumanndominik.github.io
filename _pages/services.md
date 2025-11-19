@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 ## Community services
-* Co-chair of the Finland section of the joint chapter of the IEEE Control Systems, Robotics and Automation, and Systems, Man, and Cybernetics societies, 2025-2026.
+* Chair of the Finland section of the joint chapter of the IEEE Control Systems, Robotics and Automation, and Systems, Man, and Cybernetics societies, 2025-2026.
 * Member of the Equality, Diversity, and Inclusion Group of the School of Electrical Engineering at Aalto University, 2025-2026.
+* Co-organization of a ``[Seminar](https://fcai.fi/calendar/2025/11/19/joint-ieee-fcai-seminar-on-smart-biomedical-systems) on Smart Biomedical Systems'' in Helsinki, Finland.
+* Organization of a ``[Workshop](https://drive.google.com/file/d/1KrUGkglvrQrS3BX829e0uxrlYh9Sxmgi/view) on Emerging Trends in Automatic Control'' at Aalto University, Espoo, Finland.
 * Co-organization of a competition on "Learning by Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality" at Advances in Neural Information Processing Systems, 2021.
 * Co-organization of an open invited track on "Control for Next Generation Wireless Networks" at the IFAC World Congress, 2020.
 * Ombudsperson at the Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018-2021.
