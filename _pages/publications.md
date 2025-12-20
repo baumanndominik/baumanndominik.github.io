@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
-* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters, 2026 (accepted).
+* Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters, 2025, [arXiv](https://arxiv.org/abs/2512.11580).
 * Dominik Baumann, Krzysztof Kowalczyk, Cristian R. Rojas, Koen Tiels, and Paweł Wachel, "Safety and optimality in learning-based control at low computational cost," IEEE Transactions on Automatic Control, 2025, [arXiv](https://arxiv.org/abs/2505.08026).
 * Shiming He, Alexander von Rohr, Dominik Baumann, Ji Xiang, and Sebastian Trimpe, "Simulation-aided policy tuning for black-box robot learning," IEEE Transactions on Robotics, 2025, [arXiv](https://arxiv.org/abs/2411.14246).
 * Dominik Baumann, Erfaun Noorani, James Price, Ole Peters, Colm Connaughton, and Thomas B. Schön, "Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations," Transactions on Machine Learning Research, 2025, [arXiv](https://arxiv.org/abs/2310.11335).
@@ -49,6 +49,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Reports
 
+* Dominik Baumann, Konrad Buck, Sabine Demsar, Michael Dietrich, David Fischer, Patrick Glauner, Milena Rapp, Larissa Rohr, Svenja Rösch, Michael von Uechtritz und Steinkirch und Christopher Nehring, “Key2KI: Verantwortungsvoller Einsatz von Künstlicher Intelligenz in Politik und Wahlkampf”, Baden-Württemberg Stiftung, 2025, [PDF](https://www.wahlexe.de/fileadmin/user_upload/Leitfaden_key2KI_20250218.pdf).
 * Dominik Baumann, "An ergodicity perspective on reinforcement learning," [Ergodicity Economics Blog](https://ergodicityeconomics.com/2023/10/20/an-ergodicity-perspective-on-reinforcement-learning/), 2023.
 * Oliver Hulme, Arne Vanhoyweghen, Colm Connaughton, Ole Peters, Simon Steinkamp, Alexander Adamou, Dominik Baumann, Vincent Ginis, Bert Verbruggen, James Price, and Benjamin Skjold, "Reply to 'The limitations of growth-optimal approaches to decision making under uncertainty,'" Econ Journal Watch, 2023, [PDF](https://econjwatch.org/File+download/1283/HulmeEtAlSept2023.pdf?mimetype=pdf).
 * Sebastian Weichwald, Søren W. Mogensen, Tabitha E. Lee, Dominik Baumann, Oliver Kroemer, Isabelle Guyon, Sebastian Trimpe, Jonas Peters, and Niklas Pfister, "Learning by doing: Controlling a dynamical system using causality, control, and reinforcement learning," NeurIPS Competition and Demonstration Track, 2021, [arXiv](https://arxiv.org/pdf/2202.06052).
