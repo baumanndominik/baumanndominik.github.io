@@ -28,6 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
+* Shreeram Murali, Cristian R. Rojas, and Dominik Baumann, "Computationally lightweight classifiers with frequentist bounds on prediction errors," International Conference on Artificial Intelligence and Statistics, 2026 (accepted).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.13608).
 * Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.21443).
 * Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025, [arXiv](https://arxiv.org/abs/2508.19731).
