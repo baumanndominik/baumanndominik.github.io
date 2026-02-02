@@ -27,4 +27,4 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 ## Alumni
 
 * [Sara Pérez Vieites](https://sarapv.github.io/)  
-<sup>Next position: Postdoctoral Fellow at the Helsinki Institute for Information Technology (HIIT), University of Helsinki</sup>
+<sup>Next position: Postdoctoral Fellow, University of Helsinki</sup>
