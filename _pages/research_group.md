@@ -9,8 +9,6 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 
 ## Team
 
-* [Sara Pérez Vieites](https://sarapv.github.io/)  
-<sup>Postdoctoral Researcher</sup>
 * [Arsenii Mustafin](https://research.aalto.fi/en/persons/arsenii-mustafin)  
 <sup>Postdoctoral Researcher</sup>
 * [Abdullah Tokmak](https://tokmaka1.github.io/)  
@@ -25,3 +23,8 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 <sup>Industrial Ph.D. Student with ABB</sup>
 * [Shreeram Murali](https://shreeram-murali.github.io/)  
 <sup>Ph.D. Student</sup>
+
+## Alumni
+
+* [Sara Pérez Vieites](https://sarapv.github.io/)  
+<sup>Next position: Postdoctoral Fellow at the Helsinki Institute for Information Technology (HIIT), University of Helsinki</sup>
