@@ -9,6 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
+* Dominik Baumann, Erfaun Noorani, Arsenii Mustafin, Xinyi Sheng, Bert Verbruggen, Arne Vanhoyweghen, Vincent Ginis, and Thomas B. Schön, "Ergodicity in reinforcement learning," Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2026 (accpeted).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters, 2025, [arXiv](https://arxiv.org/abs/2512.11580).
 * Dominik Baumann, Krzysztof Kowalczyk, Cristian R. Rojas, Koen Tiels, and Paweł Wachel, "Safety and optimality in learning-based control at low computational cost," IEEE Transactions on Automatic Control, 2025, [arXiv](https://arxiv.org/abs/2505.08026).
 * Shiming He, Alexander von Rohr, Dominik Baumann, Ji Xiang, and Sebastian Trimpe, "Simulation-aided policy tuning for black-box robot learning," IEEE Transactions on Robotics, 2025, [arXiv](https://arxiv.org/abs/2411.14246).
