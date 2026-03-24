@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journals
 
-* Dominik Baumann, Erfaun Noorani, Arsenii Mustafin, Xinyi Sheng, Bert Verbruggen, Arne Vanhoyweghen, Vincent Ginis, and Thomas B. Schön, "Ergodicity in reinforcement learning," Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2026 (accpeted).
+* Dominik Baumann, Erfaun Noorani, Arsenii Mustafin, Xinyi Sheng, Bert Verbruggen, Arne Vanhoyweghen, Vincent Ginis, and Thomas B. Schön, "Ergodicity in reinforcement learning," Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2026, [arXiv](https://arxiv.org/abs/2603.10895).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters, 2025, [arXiv](https://arxiv.org/abs/2512.11580).
 * Dominik Baumann, Krzysztof Kowalczyk, Cristian R. Rojas, Koen Tiels, and Paweł Wachel, "Safety and optimality in learning-based control at low computational cost," IEEE Transactions on Automatic Control, 2025, [arXiv](https://arxiv.org/abs/2505.08026).
 * Shiming He, Alexander von Rohr, Dominik Baumann, Ji Xiang, and Sebastian Trimpe, "Simulation-aided policy tuning for black-box robot learning," IEEE Transactions on Robotics, 2025, [arXiv](https://arxiv.org/abs/2411.14246).
@@ -29,7 +29,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* Shreeram Murali, Cristian R. Rojas, and Dominik Baumann, "Computationally lightweight classifiers with frequentist bounds on prediction errors," International Conference on Artificial Intelligence and Statistics, 2026 (accepted).
+* Shreeram Murali, Cristian R. Rojas, and Dominik Baumann, "Computationally lightweight classifiers with frequentist bounds on predictions," International Conference on Artificial Intelligence and Statistics, 2026, [arXiv](https://arxiv.org/abs/2603.22128).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.13608).
 * Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.21443).
 * Maryam K. Eskeri, Ville Kyrki, Dominik Baumann, and Tomasz P. Kucner, "Efficient human-aware task allocation for multi-robot systems in shared environments," IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025, [arXiv](https://arxiv.org/abs/2508.19731).

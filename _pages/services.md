@@ -22,7 +22,8 @@ author_profile: true
 * International Conference on Event-based Control, Communication, and Signal Processing, 2021.
 
 ## Public outreach
-* Contribution to a [guide](https://www.wahlexe.de/fileadmin/user_upload/Leitfaden_key2KI_2-25.pdf) on the usage of "AI" in political communication (in German).
+* Participation in ["I'm a scientist"](https://imascientist.de/), chatting with high school students about AI.
+* Contribution to a [guide](https://www.wahlexe.de/fileadmin/user_upload/Leitfaden_key2KI_2-25.pdf) on the usage of AI in political communication (in German).
 * Blog entry in the [Ergodicity Economics Blog](https://ergodicityeconomics.com/2023/10/20/an-ergodicity-perspective-on-reinforcement-learning/).
 * Participation in open house days.
 * Contribution to "[Selected Readings on AI for Development](https://medium.com/data-stewards-network/selected-readings-on-ai-for-development-24aff54fdc8)." 
