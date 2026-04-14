@@ -29,6 +29,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
+* Qingyun Guo, Junyi Shi, Tomasz P. Kucner, and Dominik Baumann, "Priority-driven control and communication in decentralized multi-agent systems via reinforcement learning," IFAC World Congress, 2026 (accepted).
+* Amirsaman Mirjalili, Elham Kowsari, Dominik Baumann, and Reza Ghabcheloo, "IMU to joint extrinsic calibration of articulated link pairs for heavy-duty machinery," IFAC World Congress, 2026 (accepted).
 * Shreeram Murali, Cristian R. Rojas, and Dominik Baumann, "Computationally lightweight classifiers with frequentist bounds on predictions," International Conference on Artificial Intelligence and Statistics, 2026, [arXiv](https://arxiv.org/abs/2603.22128).
 * Abdullah Tokmak, Thomas B. Schön, and Dominik Baumann, "Towards safe control parameter tuning in distributed multi-agent systems," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.13608).
 * Xinyi Sheng and Dominik Baumann, "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning," IEEE Conference on Decision and Control, 2025, [arXiv](https://arxiv.org/abs/2508.21443).
