@@ -29,7 +29,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
-* hreya Das, Kundan Kumar, Muhammad Iqbal, Outi Savolainen, Dominik Baumann, Laura Ruotsalainen, and Simo Särkkä, "Integrating Lagrangian neural networks into the Dyna framework for reinforcement learning," European Signal Processing Conference, 2026, [arXiv](https://arxiv.org/abs/2603.08468).
+* Shreya Das, Kundan Kumar, Muhammad Iqbal, Outi Savolainen, Dominik Baumann, Laura Ruotsalainen, and Simo Särkkä, "Integrating Lagrangian neural networks into the Dyna framework for reinforcement learning," European Signal Processing Conference, 2026, [arXiv](https://arxiv.org/abs/2603.08468).
 * Sara Pérez-Vieites, Sahel Iqbal, Simo Särkkä, and Dominik Baumann, "Online Bayesian experimental design for partially observed dynamical systems," International Conference on Machine Learning, 2026, [arXiv](https://arxiv.org/abs/2511.04403).
 * Qingyun Guo, Junyi Shi, Tomasz P. Kucner, and Dominik Baumann, "Priority-driven control and communication in decentralized multi-agent systems via reinforcement learning," IFAC World Congress, 2026 (accepted).
 * Amirsaman Mirjalili, Elham Kowsari, Dominik Baumann, and Reza Ghabcheloo, "IMU to joint extrinsic calibration of articulated link pairs for heavy-duty machinery," IFAC World Congress, 2026 (accepted).
