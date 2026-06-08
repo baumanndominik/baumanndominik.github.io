@@ -17,20 +17,23 @@ I am also teaching the bachelor's course [Säätötekniikka](https://courses.aal
 
 ## Past Lectures and Tutorials
 
+### Lectures on "Introduction to Robot Control" and "Safe Control Parameter Tuning and Uncertainty Quantification," University of Oulu, Finland, 2026
+Part of the [14th International UBI Summer School](https://ubicomp.oulu.fi/ubiss2026)
+
 ### Course "Automatic Control II," Uppsala University, Sweden, 2022
 Teaching assistant, teaching of exercise lectures.
 
 ### Course "Reinforcement Learning," Uppsala University, Sweden 2022
-Design and teaching of two lectures on exploration theory, and recent advances and challenges of reinforcement learning.
+Two guest lectures on exploration theory, and recent advances and challenges of reinforcement learning.
 
 ### Tutorial "An Introduction to Artificial Intelligence," RWTH Aachen University, Germany, 2021
-Design and teaching of four lectures as part of the summer school  "Production Technology meets Industry 4.0."
+Four lectures as part of the summer school  "Production Technology meets Industry 4.0."
 
 ### Seminar "Ethics of Artificial Intelligence and Robotics," RWTH Aachen University, Germany, 2021
-Planning, organization, and conductance of a new seminar covering ethical and societal impacts of artificial intelligence and robotics.
+A new seminar covering ethical and societal impacts of artificial intelligence and robotics.
 
 ### Course "Computer Science in Mechanical Engineering II," RWTH Aachen University, Germany, 2021
-Teaching assistant, material design and teaching of exercise lectures.
+Teaching assistant, teaching of exercise lectures.
 
 ### Course "Statistical Learning Methods and Stochastic Control," University of Stuttgart, Germany, 2019
 Design and supervision of a project for a group of three students.
