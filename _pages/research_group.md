@@ -11,7 +11,7 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 
 * [Arsenii Mustafin](https://research.aalto.fi/en/persons/arsenii-mustafin)  
 <sup>Postdoctoral Researcher</sup>
-* [Braghadeesh Lakshminarayanan](https://braghadeeshln.github.io/)
+* [Braghadeesh Lakshminarayanan](https://braghadeeshln.github.io/)  
 <sup>Postdoctoral Researcher</sup>
 * [Abdullah Tokmak](https://tokmaka1.github.io/)  
 <sup>Ph.D. Student</sup>
