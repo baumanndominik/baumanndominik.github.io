@@ -29,6 +29,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conferences
 
+* Shreeram Murali, Shankar Deka, and Dominik Baumann, "Computationally efficient safe exploration in reinforcement learning," IEEE Conference on Decision and Control, 2026 (accepted).
+* Abdullah Tokmak, Toni Karvonen, Thomas B. Schön, and Dominik Baumann, "Safe learning-based control via function-based uncertainty quantification," IEEE Conference on Decision and Control, 2026 (accepted).
 * Shreya Das, Kundan Kumar, Muhammad Iqbal, Outi Savolainen, Dominik Baumann, Laura Ruotsalainen, and Simo Särkkä, "Integrating Lagrangian neural networks into the Dyna framework for reinforcement learning," European Signal Processing Conference, 2026, [arXiv](https://arxiv.org/abs/2603.08468).
 * Sara Pérez-Vieites, Sahel Iqbal, Simo Särkkä, and Dominik Baumann, "Online Bayesian experimental design for partially observed dynamical systems," International Conference on Machine Learning, 2026, [arXiv](https://arxiv.org/abs/2511.04403).
 * Qingyun Guo, Junyi Shi, Tomasz P. Kucner, and Dominik Baumann, "Priority-driven control and communication in decentralized multi-agent systems via reinforcement learning," IFAC World Congress, 2026, [arXiv](https://arxiv.org/abs/2605.10482).
