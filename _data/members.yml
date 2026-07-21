@@ -1,4 +1,5 @@
-# Active
+# _data/members.yml
+
 - name: Arsenii Mustafin
   url: https://research.aalto.fi/en/persons/arsenii-mustafin
   role: Postdoctoral Researcher
@@ -50,7 +51,7 @@
 # Alumni
 - name: Sara Pérez Vieites
   url: https://sarapv.github.io/
-  role: Next position: Postdoctoral Fellow, University of Helsinki
+  role: "Next position: Postdoctoral Fellow, University of Helsinki"
   type: postdoc
   status: alumni
 
