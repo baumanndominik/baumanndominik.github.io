@@ -1,3 +1,14 @@
+---
+layout: single
+title: "Cyber-physical Systems Group"
+permalink: /research_group/
+author_profile: true
+---
+
+I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/department-of-electrical-engineering-and-automation/cyber-physical-systems) at Aalto University.
+
+## Team
+
 {% assign active = site.data.members | where: "status", "active" %}
 {% assign postdocs = active | where: "type", "postdoc" %}
 {% assign phds = active | where: "type", "phd" %}
