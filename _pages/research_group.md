@@ -9,24 +9,63 @@ I am leading the [Cyber-physical Systems Group](https://www.aalto.fi/en/departme
 
 ## Team
 
-* [Arsenii Mustafin](https://research.aalto.fi/en/persons/arsenii-mustafin)  
-<sup>Postdoctoral Researcher</sup>
-* [Braghadeesh Lakshminarayanan](https://braghadeeshln.github.io/)  
-<sup>Postdoctoral Researcher</sup>
-* [Abdullah Tokmak](https://tokmaka1.github.io/)  
-<sup>Ph.D. Student</sup>
-* [Mingwei Deng](https://research.aalto.fi/en/persons/mingwei-deng)  
-<sup>Ph.D. Student</sup>
-* [Zheng Shen](https://research.aalto.fi/en/persons/zheng-shen)  
-<sup>Ph.D. Student</sup>
-* [Xinyi Sheng](https://research.aalto.fi/en/persons/xinyi-sheng)  
-<sup>Ph.D. Student</sup>
-* [Juri Voloskin](https://fi.linkedin.com/in/juri-voloskin-44099058)  
-<sup>Industrial Ph.D. Student with ABB</sup>
-* [Shreeram Murali](https://shreeram-murali.github.io/)  
-<sup>Ph.D. Student</sup>
+{% assign active = site.data.members | where: "status", "active" %}
+{% assign postdocs = active | where: "type", "postdoc" %}
+{% assign phds = active | where: "type", "phd" %}
+{% assign others = active | where_exp: "m", "m.type != 'postdoc' and m.type != 'phd'" %}
+{% assign ordered = postdocs | concat: phds | concat: others %}
+
+<div class="two-col">
+  <div class="col">
+    {% for m in ordered %}
+      {% if forloop.index0 | modulo: 2 == 0 %}
+      <p>
+        <a href="{{ m.url }}">{{ m.name }}</a><br>
+        <sup>{{ m.role }}</sup>
+      </p>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="col">
+    {% for m in ordered %}
+      {% if forloop.index0 | modulo: 2 == 1 %}
+      <p>
+        <a href="{{ m.url }}">{{ m.name }}</a><br>
+        <sup>{{ m.role }}</sup>
+      </p>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
 
 ## Alumni
 
-* [Sara Pérez Vieites](https://sarapv.github.io/)  
-<sup>Next position: Postdoctoral Fellow, University of Helsinki</sup>
+{% assign alumni = site.data.members | where: "status", "alumni" %}
+{% assign alumni_postdocs = alumni | where: "type", "postdoc" %}
+{% assign alumni_phds = alumni | where: "type", "phd" %}
+{% assign alumni_others = alumni | where_exp: "m", "m.type != 'postdoc' and m.type != 'phd'" %}
+{% assign alumni_ordered = alumni_postdocs | concat: alumni_phds | concat: alumni_others %}
+
+<div class="two-col">
+  <div class="col">
+    {% for m in alumni_ordered %}
+      {% if forloop.index0 | modulo: 2 == 0 %}
+      <p>
+        <a href="{{ m.url }}">{{ m.name }}</a><br>
+        <sup>{{ m.role }}</sup>
+      </p>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="col">
+    {% for m in alumni_ordered %}
+      {% if forloop.index0 | modulo: 2 == 1 %}
+      <p>
+        <a href="{{ m.url }}">{{ m.name }}</a><br>
+        <sup>{{ m.role }}</sup>
+      </p>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

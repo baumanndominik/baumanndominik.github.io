@@ -1,0 +1,56 @@
+# Active
+- name: Arsenii Mustafin
+  url: https://research.aalto.fi/en/persons/arsenii-mustafin
+  role: Postdoctoral Researcher
+  type: postdoc
+  status: active
+
+- name: Braghadeesh Lakshminarayanan
+  url: https://braghadeeshln.github.io/
+  role: Postdoctoral Researcher
+  type: postdoc
+  status: active
+
+- name: Abdullah Tokmak
+  url: https://tokmaka1.github.io/
+  role: Ph.D. Student
+  type: phd
+  status: active
+
+- name: Mingwei Deng
+  url: https://research.aalto.fi/en/persons/mingwei-deng
+  role: Ph.D. Student
+  type: phd
+  status: active
+
+- name: Zheng Shen
+  url: https://research.aalto.fi/en/persons/zheng-shen
+  role: Ph.D. Student
+  type: phd
+  status: active
+
+- name: Xinyi Sheng
+  url: https://research.aalto.fi/en/persons/xinyi-sheng
+  role: Ph.D. Student
+  type: phd
+  status: active
+
+- name: Juri Voloskin
+  url: https://fi.linkedin.com/in/juri-voloskin-44099058
+  role: Industrial Ph.D. Student with ABB
+  type: phd
+  status: active
+
+- name: Shreeram Murali
+  url: https://shreeram-murali.github.io/
+  role: Ph.D. Student
+  type: phd
+  status: active
+
+# Alumni
+- name: Sara Pérez Vieites
+  url: https://sarapv.github.io/
+  role: Next position: Postdoctoral Fellow, University of Helsinki
+  type: postdoc
+  status: alumni
+

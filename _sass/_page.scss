@@ -399,3 +399,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.two-col {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.two-col .col { flex: 1; min-width: 0; }
+.two-col .col p { margin: 0 0 0.6rem 0; }
+@media (max-width: 700px) {
+  .two-col { flex-direction: column; }
+}
+
