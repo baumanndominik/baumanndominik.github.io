@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Cyber-physical Systems Group"
 permalink: /research_group/
 author_profile: true
