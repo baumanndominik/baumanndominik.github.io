@@ -1,5 +1,3 @@
-## Team
-
 {% assign active = site.data.members | where: "status", "active" %}
 {% assign postdocs = active | where: "type", "postdoc" %}
 {% assign phds = active | where: "type", "phd" %}

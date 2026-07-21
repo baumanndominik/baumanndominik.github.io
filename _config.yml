@@ -187,6 +187,9 @@ collections:
   research_group:
     output: true
     permalink: /:collection/:path
+  pages:
+    output: true
+    permalink: /:path/
 
 
 # Defaults
