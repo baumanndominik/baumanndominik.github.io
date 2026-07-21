@@ -8,21 +8,17 @@
 <div class="two-col">
   <div class="col">
     {% for m in ordered %}
-      {% if forloop.index0 | modulo: 2 == 0 %}
-      <p>
-        <a href="{{ m.url }}">{{ m.name }}</a><br>
-        <sup>{{ m.role }}</sup>
-      </p>
+      {% assign parity = forloop.index0 | modulo: 2 %}
+      {% if parity == 0 %}
+      <p><a href="{{ m.url }}">{{ m.name }}</a><br><sup>{{ m.role }}</sup></p>
       {% endif %}
     {% endfor %}
   </div>
   <div class="col">
     {% for m in ordered %}
-      {% if forloop.index0 | modulo: 2 == 1 %}
-      <p>
-        <a href="{{ m.url }}">{{ m.name }}</a><br>
-        <sup>{{ m.role }}</sup>
-      </p>
+      {% assign parity = forloop.index0 | modulo: 2 %}
+      {% if parity == 1 %}
+      <p><a href="{{ m.url }}">{{ m.name }}</a><br><sup>{{ m.role }}</sup></p>
       {% endif %}
     {% endfor %}
   </div>
@@ -38,21 +34,17 @@
 <div class="two-col">
   <div class="col">
     {% for m in alumni_ordered %}
-      {% if forloop.index0 | modulo: 2 == 0 %}
-      <p>
-        <a href="{{ m.url }}">{{ m.name }}</a><br>
-        <sup>{{ m.role }}</sup>
-      </p>
+      {% assign parity = forloop.index0 | modulo: 2 %}
+      {% if parity == 0 %}
+      <p><a href="{{ m.url }}">{{ m.name }}</a><br><sup>{{ m.role }}</sup></p>
       {% endif %}
     {% endfor %}
   </div>
   <div class="col">
     {% for m in alumni_ordered %}
-      {% if forloop.index0 | modulo: 2 == 1 %}
-      <p>
-        <a href="{{ m.url }}">{{ m.name }}</a><br>
-        <sup>{{ m.role }}</sup>
-      </p>
+      {% assign parity = forloop.index0 | modulo: 2 %}
+      {% if parity == 1 %}
+      <p><a href="{{ m.url }}">{{ m.name }}</a><br><sup>{{ m.role }}</sup></p>
       {% endif %}
     {% endfor %}
   </div>

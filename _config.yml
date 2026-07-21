@@ -186,7 +186,7 @@ collections:
     permalink: /:collection/:path/
   research_group:
     output: true
-    premalink: /:collection/:path
+    permalink: /:collection/:path
 
 
 # Defaults
