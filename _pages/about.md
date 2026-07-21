@@ -2,6 +2,7 @@
 permalink: /
 title: "Dominik Baumann"
 excerpt: "About me"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/

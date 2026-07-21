@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Talk:** Seminar at Leibniz University Hannover, Hannover, Germany, Aug. 2026.
+* **Talk:** Workshop on Real-World Reinforcement Learning, Hannover, Germany, Aug. 2026.
 * **Talk:** Workshop on Sustainable Societal Metabolisms, Leipzig, Germany, Nov. 2025.
 * **Talk:** IEEE Workshop on Emerging Trends in Automatic Control, Espoo, Finland, Sep. 2025.
 * **Poster:** European Workshop on Reinforcement Learning, Tübingen, Germany, Sep. 2025.
